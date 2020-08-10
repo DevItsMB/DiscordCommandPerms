@@ -27,4 +27,4 @@ bot.on('message', message => {
             message.channel.send('Sorry, you cant use that command, If you believe this is an error contact an Admin')
           }
         };
-})```
+})
